@@ -8,7 +8,6 @@ def my_hash
   
 end
 
-
 def shipping_manifest
   # set a variable called `he_manifestt`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
@@ -48,7 +47,6 @@ def adding
   
   shipping_manifest["gun powder"] = 4 
   
-
   # return the shipping_manifest hash below
   shipping_manifest
 end
